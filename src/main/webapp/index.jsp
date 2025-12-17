@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit"> SIGN IN  </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
@@ -32,7 +32,7 @@
           <a href="#">Need help?</a>
         </div>
       </form>
-      <p>New to Netflix? <a href="#">Lets join uxxp now</a></p>
+      <p>New to Netflix? <a href="#">SIGN UP</a></p>
       <small>
         This page is protected by Google reCAPTCHA to ensure you're not a bot.
         <a href="#">Learn more.</a>
